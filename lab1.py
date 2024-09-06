@@ -14,7 +14,8 @@
 print("Hello, welcome to CIS 103!")
 
 # This script prints a personalized greeting message
-# and demonstrates the use of variables and basic data types. # --------------------------------------------------------
+# and demonstrates the use of variables and basic data types. 
+# --------------------------------------------------------
 
 # Get the user's name (string) and age (integer)
 
